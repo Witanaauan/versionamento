@@ -36,3 +36,4 @@ Exemplo: cria-se classes específicas para cada tipo de personagem, como “Zumb
 4. Polimorfismo: é a capacidade de objetos de diferentes classes serem tratados de forma semelhante.
 
 Exemplo: utiliza-se o polimorfismo para que diferentes personagens respondam de maneiras diferentes a uma mesma mensagem, como “ataque”. Dessa forma, um zumbi pode realizar ataques físicos, enquanto um fantasma pode realizar ataques à distância com sua habilidade de passar através de obstáculos.
+
